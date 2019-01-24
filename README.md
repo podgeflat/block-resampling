@@ -1,7 +1,7 @@
 # block-resampling
 Resampling weather data to extract extremes
 
-These separate notebooks perform block resampling on temperature and precipitation data. 
+These separate notebooks perform block resampling on [EObs](https://www.ecad.eu/download/ensembles/download.php) temperature and precipitation data. 
 
 The temperature data also has the option of including precipitation, in order to extract combinations of extremes (warm/wet) etc. on datafiles which have both temperature and precipitation variables. 
 
